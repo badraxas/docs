@@ -51,7 +51,7 @@ The generated JSON for products and the related context document will now use ex
 }
 ```
 
-An extended list of existing open vocabularies is available on [the Linked Open Vocabularies (LOV) database](http://lov.okfn.org/dataset/lov/).
+An extended list of existing open vocabularies is available on [the Linked Open Vocabularies (LOV) database](https://lov.linkeddata.es/dataset/lov/).
 
 By default, when using [validations](validation.md) API Platform Core will try to define known [Schema.org](https://schema.org) types as IRIs for your properties if you did not provide any in your `@ApiProperty` annotations.
 Built-in mapping is:
